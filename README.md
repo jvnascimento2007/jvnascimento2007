@@ -24,4 +24,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jv76532&show_icons=true&locale=en&layout=compact" alt="jv76532" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvnascimento2007&show_icons=true&locale=en&layout=compact" alt="jv76532" /></p>
