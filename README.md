@@ -6,7 +6,7 @@
 <br>
 <img align="right" width="300" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
-- 📚 Atualmente aprendendo: **APIs HTTP em Python**
+- 📚 Atualmente aprendendo: **Análise de dados com Python**
 
 - 🤳🏻 Whatsapp para contato: [Clique aqui](https://wa.me/5581989658003)
 
@@ -24,4 +24,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvnascimento2007&show_icons=true&locale=en&layout=compact" alt="jv76532" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvnascimento2007&show_icons=true&locale=en&layout=compact" alt="jvnascimento2007" /></p>
